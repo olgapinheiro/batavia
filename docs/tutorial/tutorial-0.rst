@@ -76,8 +76,8 @@ how to set this up are `on our Environment setup guide
    Once you've got npm, you can use it to install Batavia's JavaScript
    dependencies::
 
+   $ cd batavia
    $ npm install
-
 
 5. Lastly, compile the Batavia library and bundle its dependencies::
 
